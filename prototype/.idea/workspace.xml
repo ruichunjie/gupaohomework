@@ -2,64 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33e2a67-b396-42cc-8d4c-ffead3d81001" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../factorypattern" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67e7ee16372509ec17a4767df2aa021789703b3b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4d6e07bfdecc8d9296405edc6444da975b27a11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bec3fdee25f00aec6233e26119e32728e9a82816" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gupao/prototype/deep/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gupao/prototype/deep/SerializableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gupao/prototype/deep/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/SeriableSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/hungry/HungrySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/hungry/HungryStaticHungrySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/lazy/ExectorThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/lazy/LazyDoubleCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/lazy/LazyInnerClassSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/lazy/LazyInnerClassSingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/lazy/LazySimpleSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/lazy/LazySimpleSingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/lazy/SeriableSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/lazy/SeriableSingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/register/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/register/ContainerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/register/ContainerSingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/register/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/threadlocal/ThreadLocalSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/gupao/singleton/threadlocal/ThreadLocalSingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/hungry/HungrySingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/hungry/HungryStaticHungrySingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/ExectorThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/LazyDoubleCheck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/LazyInnerClassSingleton$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/LazyInnerClassSingleton$LazyHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/LazyInnerClassSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/LazyInnerClassSingletonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/LazySimpleSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/LazySimpleSingletonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/SeriableSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/lazy/SeriableSingletonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/register/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/register/ContainerSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/register/ContainerSingletonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/register/EnumSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/threadlocal/ThreadLocalSingleton$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/threadlocal/ThreadLocalSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/target/classes/com/gupao/singleton/threadlocal/ThreadLocalSingletonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton/内部类时序图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/main/java/com/gupao/proxy/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/main/java/com/gupao/proxy/staticed/HelloWorldImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/main/java/com/gupao/proxy/staticed/StaticProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,7 +20,7 @@
     <session id="563853719">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="3" />
@@ -143,9 +90,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="285" />
-    <option name="y" value="55" />
+    <option name="y" value="54" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
@@ -180,12 +127,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="prototype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -199,7 +140,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552453233366" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552461847775" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -249,7 +190,7 @@
       <updated>1552280228630</updated>
       <workItem from="1552280233318" duration="1218000" />
       <workItem from="1552447035671" duration="2567000" />
-      <workItem from="1552453027227" duration="382000" />
+      <workItem from="1552453027227" duration="942000" />
     </task>
     <task id="LOCAL-00001" summary="原型模式">
       <created>1552453268492</created>
@@ -262,10 +203,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4167000" />
+    <option name="totallyTimeSpent" value="4727000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="285" y="55" width="1440" height="825" extended-state="1" />
+    <frame x="285" y="54" width="1440" height="825" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

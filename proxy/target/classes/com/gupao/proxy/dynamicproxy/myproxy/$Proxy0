@@ -1,0 +1,13 @@
+package com.gupao.proxy.dynamicproxy.myproxy;
+import com.gupao.proxy.HelloWorld;
+import java.lang.reflect.*;public class $Proxy0 implements com.gupao.proxy.HelloWorld{
+MyInvocationHandler h;
+public $Proxy0(MyInvocationHandler h){
+this.h = h;}
+public void sayHelloWorld( ){
+try{
+Method m = com.gupao.proxy.HelloWorld.class.getMethod("sayHelloWorld",new Class[]{});
+this.h.invoke(this,m,new Object[]{});
+}catch(Error _ex) { }catch(Throwable e){
+throw new UndeclaredThrowableException(e);
+}}}
