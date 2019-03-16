@@ -1,0 +1,8 @@
+
+Usquid:S1172M"2Remove this unused method parameter "stringClass".(¤œˆ¶şÿÿÿÿ8ï‘ê¯˜-
+Ksquid:S1185%"(Remove this method to simply inherit it.(Û‹¡úÿÿÿÿ8ãøì¯˜-
+Fsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8íñö¯˜-
+csquid:S22594"EA "NullPointerException" could be thrown; "handler" is nullable here.(²†áÄ8íñö¯˜-
+xsquid:UselessImportCheck"HRemove this unused import 'java.lang.reflect.InvocationTargetException'.(è¾†„øÿÿÿÿ8¿ø¯˜-
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(±†ë¼8«Éà¯˜-
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Â‰å¯˜-

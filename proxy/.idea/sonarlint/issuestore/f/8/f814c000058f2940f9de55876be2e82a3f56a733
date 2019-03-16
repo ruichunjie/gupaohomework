@@ -1,17 +1,17 @@
 
-?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
 {squid:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ð¼©»ùÿÿÿÿ
-vsquid:S11497"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-esquid:S4042-"IUse "java.nio.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
-rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–Ý–Ò
 V
 squid:S899-";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ
 dsquid:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(•ºÔÈýÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(×”îØùÿÿÿÿ
+{squid:S1149C"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ë‚‘ñùÿÿÿÿ
 {squid:S1149D"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(éä­¨ýÿÿÿÿ
-usquid:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù†´Îùÿÿÿÿ
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(Î€Ñúÿÿÿÿÿ8ÎÝÃ´—-
-{squid:S1149C"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ë‚‘ñùÿÿÿÿ
+usquid:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù†´Îùÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–Ý–Ò
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×”îØùÿÿÿÿ
+esquid:S4042-"IUse "java.nio.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
 Qsquid:S1118":Add a private constructor to hide the implicit public one.(—²’™
+vsquid:S11497"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
