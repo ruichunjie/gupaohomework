@@ -1,0 +1,33 @@
+
+Fsquid:S1989‚""Add a "try/catch" block for "set".(ŠŠËşÿÿÿÿ8ˆ¶…Í›-
+Gsquid:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ¶…Í›-
+Ksquid:S19894"(Add a "try/catch" block for "getWriter".(‹İÀüÿÿÿÿ8Æ¼úÌ›-
+vsquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•ÑãÖıÿÿÿÿ8ˆ¶…Í›-
+wsquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(ø—á8Æ¼úÌ›-
+vsquid:S2226 "XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ø—á8Æ¼úÌ›-
+Ksquid:S1989V"(Add a "try/catch" block for "getWriter".(ïÓäñıÿÿÿÿ8Ÿ¯§Í›-
+\
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(ø–Â‹ùÿÿÿÿ8ˆ¶…Í›-
+}squid:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹óú±úÿÿÿÿ8ˆ¶…Í›-
+Hsquid:S1989*"%Add a "try/catch" block for "doPost".(éöõ¦ùÿÿÿÿ8Æ¼úÌ›-
+dsquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(²éõ~8Æ¼úÌ›-
+vsquid:S2226#"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(„»¤›8Æ¼úÌ›-
+Gsquid:S1148à"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ¶…Í›-
+:squid:S3626®"Remove this redundant jump.(ÉŠ©ƒ8ˆ¶…Í›-
+wsquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(„»¤›8Æ¼úÌ›-
+{squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¾«Öşüÿÿÿÿ8Æ¼úÌ›-
+Bsquid:S1989T"%Add a "try/catch" block for "invoke".(ÑÕä&8Ÿ¯§Í›-
+vsquid:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Ó—x8Æ¼úÌ›-
+Gsquid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÎÿğÒ›-
+Bsquid:S1989T"%Add a "try/catch" block for "invoke".(ÑÕä&8Ÿ¯§Í›-
+Psquid:S1989€",Add a "try/catch" block for "setAccessible".(»ËİŠúÿÿÿÿ8ˆ¶…Í›-
+W
+squid:S106†"9Replace this use of System.out or System.err by a logger.(‚¦í™8ˆ¶…Í›-
+Fsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Æ¼úÌ›-
+Tsquid:S1989÷"0Add a "try/catch" block for "getDeclaredFields".(¢ºä£ùÿÿÿÿ8ˆ¶…Í›-
+Bsquid:S1989T"%Add a "try/catch" block for "invoke".(ÑÕä&8Ÿ¯§Í›-
+fsquid:S00112©"FDefine and throw a dedicated exception instead of using a generic one.(ô¼ÇÔ8ˆ¶…Í›-
+Gsquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ¶…Í›-
+Ksquid:S1989<"(Add a "try/catch" block for "getWriter".(äÖ¿ÿÿÿÿÿ8âŸ…Í›-
+Hsquid:S1989*"%Add a "try/catch" block for "doPost".(éöõ¦ùÿÿÿÿ8Æ¼úÌ›-
+usquid:S2226&"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¤Ó—x8Æ¼úÌ›-
