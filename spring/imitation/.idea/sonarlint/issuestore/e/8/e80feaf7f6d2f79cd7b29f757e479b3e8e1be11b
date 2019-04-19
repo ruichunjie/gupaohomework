@@ -1,0 +1,8 @@
+
+Tsquid:S1172£"5Remove this unused method parameter "beanDefinition".(Î‰û¾8ýÆº“£-
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8’Œò«¢-
+Ssquid:S1172µ"/Remove this unused method parameter "beanName".(œ–žèÿÿÿÿÿ8«Ù¿“£-
+esquid:S00112E"FDefine and throw a dedicated exception instead of using a generic one.(šÌûä8“¦—¬¢-
+Gsquid:S1148—"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8±ìªÏ¢-
+Gsquid:S1148É"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8«Ù¿“£-
+esquid:S00112A"FDefine and throw a dedicated exception instead of using a generic one.(¯‹Âù8ÍØö«¢-

@@ -1,0 +1,9 @@
+
+Fsquid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8º§Ş‘£-
+|squid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Ç‡üÿÿÿÿ8‚Ü‘£-
+|squid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(££¸‘øÿÿÿÿ8‚Ü‘£-
+|squid:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÉêÿÿÿÿÿ8‚Ü‘£-
+hsquid:S3027B"JPut single-quotes around ' ' to use the faster "lastIndexOf(char)" method.(úÑé›8ÁøÊ‘£-
+Ssquid:S2065"0Remove the "transient" modifier from this field.(‡´™µøÿÿÿÿ8÷ë¾‘£-
+esquid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(Åö¥Ê8Æ–Ç‘£-
+usquid:S3776="RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(å¼”üÿÿÿÿ8‚Ü‘£-

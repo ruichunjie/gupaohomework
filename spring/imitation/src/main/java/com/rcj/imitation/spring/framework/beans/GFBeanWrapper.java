@@ -7,10 +7,15 @@ import lombok.Data;
  * @Date:2019/4/16 14:53
  * @Description:
  */
-@Data
 public class GFBeanWrapper {
     private Object wrappedInstance;
     private Class<?> wrappedClass;
+    public GFBeanWrapper(Object wrappedInstance){
+        this.wrappedInstance = wrappedInstance;
+    }
+    public Object getWrappedInstance(){
+        return this.wrappedInstance;
+    }
     public Class<?> getWrappedClass(){
         return this.wrappedInstance.getClass();
     }

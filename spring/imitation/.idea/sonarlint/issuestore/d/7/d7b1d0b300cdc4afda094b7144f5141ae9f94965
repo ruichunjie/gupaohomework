@@ -1,0 +1,8 @@
+
+zsquid:S1450"WRemove the "viewName" field and declare it as a local variable in the relevant methods.(Ä¬áÛıÿÿÿÿ8¯óß£-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‘ÿ çıÿÿÿÿ8ØÃ²Ø¢-
+Csquid:S1075"&Remove this hard-coded path-delimiter.(›Ï°U8“·è£-
+Osquid:S1068",Remove this unused "viewName" private field.(Ä¬áÛıÿÿÿÿ8ÔåÖ£-
+Psquid:S1172"-Remove this unused method parameter "locale".(‘ÿ çıÿÿÿÿ8ØÃ²Ø¢-
+squid:S00116"bRename this field "DEFAULT_TEMPLATE_SUFFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ß‰8¤£Ö£-
+?squid:S1170"!Make this final field static too.(‹ß‰8¤£Ö£-

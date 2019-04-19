@@ -1,6 +1,27 @@
 
-Hsquid:S1989"%Add a "try/catch" block for "doPost".(Í†»Öúÿÿÿÿ8«£¤¢-
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Â·Š8€½¤¤¢-
-¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡’…ùüÿÿÿÿ8¤ò£¤¢-
-Fsquid:S1185"(Remove this method to simply inherit it.(üª¼í8«£¤¢-
-Hsquid:S1989"%Add a "try/catch" block for "doPost".(Í†»Öúÿÿÿÿ8«£¤¢-
+¥squid:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·Œ·Üüÿÿÿÿ8¹£„ô¢-
+ squid:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…­ÆÁ8Ï¿ãó¢-
+Gsquid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûíş¢-
+ssquid:S1450#"VRemove the "context" field and declare it as a local variable in the relevant methods.(ÇúéI8€ ˆñ¢-
+vsquid:S2226""XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÊÍ³·8Œ»Øğ¢-
+vsquid:S2226!"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(€¿Œ³8Å¤³Ø¢-
+ squid:S1186Ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å‰ÓĞ8Â¯ÿó¢-
+Rsquid:S1172ä".Remove this unused method parameter "context".(·Œ·Üüÿÿÿÿ8¹£„ô¢-
+ squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†õ½8ˆôìó¢-
+¥squid:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì¬åúÿÿÿÿ8”‡Ìó¢-
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Œøœÿ¢-
+Rsquid:S1172Œ".Remove this unused method parameter "context".(ì¬åúÿÿÿÿ8”‡Ìó¢-
+Lsquid:S1481ñ"-Remove this unused "template" local variable.(‹ÖÈï8ÿÿ”ÿ¢-
+Rsquid:S1172Í".Remove this unused method parameter "context".(ƒƒ¼ùúÿÿÿÿ8¿¼ûó¢-
+Csquid:S1989'"%Add a "try/catch" block for "doPost".(‘›şá8Òã—ÿ¢-
+Msquid:S1172ı".Remove this unused method parameter "context".(Â­»§8ÏÎô¢-
+vsquid:S2226 "XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¸ßøÛ8ÍÂØ¢-
+Msquid:S1172•".Remove this unused method parameter "context".(…­ÆÁ8Ï¿ãó¢-
+Msquid:S1172Ú".Remove this unused method parameter "context".(Å‰ÓĞ8Â¯ÿó¢-
+jsquid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(Âõ“‰ùÿÿÿÿ8¼á™ÿ¢-
+Msquid:S1172".Remove this unused method parameter "context".(†õ½8ˆôìó¢-
+jsquid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ8ùÁ®ÿ¢-
+Csquid:S1989'"%Add a "try/catch" block for "doPost".(‘›şá8¥Ïœÿ¢-
+Dsquid:S1170"!Make this final field static too.(ˆ€ƒ¦øÿÿÿÿ8ÍôÕ¢-
+ squid:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â­»§8ÏÎô¢-
+wsquid:S00116"SRename this field "LOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€ƒ¦øÿÿÿÿ8ÍôÕ¢-
