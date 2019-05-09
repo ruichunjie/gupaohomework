@@ -1,0 +1,8 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á³™àúÿÿÿÿ8Åª–¾¥-
+Isquid:S1948"(Make "values" transient or serializable.(’ŸÎþÿÿÿÿ8Íšž¼¥-
+]squid:UnusedPrivateMethod"3Remove this unused private "QueryRule" constructor.(Š×£8æÚÎ¼¥-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”„ÊÝøÿÿÿÿ8ýõõ¼¥-
+Msquid:S1068"1Remove this unused "queryRuleList" private field.(ú°¨ò8á‘Ç¼¥-
+usquid:S00116"XRename this field "property_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áûóŽ8˜ùœ¼¥-
+Qsquid:S1068"0Remove this unused "propertyName" private field.(ªªÁìýÿÿÿÿ8³ßÇ¼¥-

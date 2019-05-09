@@ -1,0 +1,9 @@
+
+tsquid:UselessImportCheck"IRemove this unused import 'org.apache.commons.collections.map.HashedMap'.(Œ¾’ş8¢½ñÂ¥-
+v
+squid:S135u"YReduce the total number of break and continue statements in this loop to use at most one.(ã ³8‘ˆ±Ã¥-
+usquid:S3776:"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ê‰Ëâÿÿÿÿÿ8î³£Ã¥-
+v
+squid:S135="YReduce the total number of break and continue statements in this loop to use at most one.(ã ³8î³£Ã¥-
+wsquid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(©²ÛÚ8‘ˆ±Ã¥-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æİ¢æ8¢½ñÂ¥-

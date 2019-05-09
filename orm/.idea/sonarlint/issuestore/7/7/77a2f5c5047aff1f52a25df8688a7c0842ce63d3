@@ -1,0 +1,37 @@
+
+Asquid:S1148z"#Use a logger to log this exception.(Ô•âõ8Ì¤‡ğ¥-
+csquid:S3358¥"DExtract this nested ternary operation into an independent statement.(Ô‡Æä8Ì¤‡ğ¥-
+jsquid:S00112P"FDefine and throw a dedicated exception instead of using a generic one.(€×»˜ûÿÿÿÿ8Ì¤‡ğ¥-
+Xsquid:S2864€"4Iterate over the "entrySet" instead of the "keySet".(µÙš¹ûÿÿÿÿ8Ì¤‡ğ¥-
+jsquid:HiddenFieldCheck6"<Rename "mappings" which hides the field declared at line 27.(¦Øƒ©ıÿÿÿÿ8Ì¤‡ğ¥-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷Å²¦8†àˆğ¥-
+@squid:S1659I""Declare "meta" on a separate line.(Ê“ˆŞ8Ì¤‡ğ¥-
+msquid:UnusedPrivateMethod]"<Remove this unused private "fillPkFieldAndAllColumn" method.(¸ˆ÷õüÿÿÿÿ8Ì¤‡ğ¥-
+vsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ØÊç˜8Ì¤‡ğ¥-
+Csquid:S1659I"%Declare "columns" on a separate line.(Ê“ˆŞ8Ì¤‡ğ¥-
+v
+squid:S1357"YReduce the total number of break and continue statements in this loop to use at most one.(¼ßğ¥8Ì¤‡ğ¥-
+Xsquid:S2864‹"4Iterate over the "entrySet" instead of the "keySet".(µÙš¹ûÿÿÿÿ8†àˆğ¥-
+"squid:ClassVariableVisibilityCheck"UMake allColumn a static final constant or non-public and provide accessors if needed.(–¥İÂşÿÿÿÿ8Ì¤‡ğ¥-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÉÎ³şÿÿÿÿ8Ì¤‡ğ¥-
+Fsquid:S1659I"(Declare "columnName" on a separate line.(Ê“ˆŞ8Ì¤‡ğ¥-
+Esquid:S16596""Declare "name" on a separate line.(¦Øƒ©ıÿÿÿÿ8Ì¤‡ğ¥-
+Xsquid:S1141u"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ì¤‡ğ¥-
+"squid:ClassVariableVisibilityCheck"SMake pkField a static final constant or non-public and provide accessors if needed.(•®ŸÌıÿÿÿÿ8Ì¤‡ğ¥-
+jsquid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(ô»ÿşÿÿÿÿ8Ì¤‡ğ¥-
+esquid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(ØÿÑx8Ì¤‡ğ¥-
+esquid:S00112#"FDefine and throw a dedicated exception instead of using a generic one.(´Ù•8Ì¤‡ğ¥-
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ÉÎ³şÿÿÿÿ8Ì¤‡ğ¥-
+|squid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦Øƒ©ıÿÿÿÿ8Ì¤‡ğ¥-
+Bsquid:S1148…"#Use a logger to log this exception.(öÁ¯¶8Ì¤‡ğ¥-
+Bsquid:S1905s"$Remove this unnecessary cast to "T".(öÁ Ÿ8Ì¤‡ğ¥-
+W
+squid:S106½"9Replace this use of System.out or System.err by a logger.(›öä´8Ì¤‡ğ¥-
+Lsquid:S1172!")Remove this unused method parameter "pk".(ô»ÿşÿÿÿÿ8Ì¤‡ğ¥-
+Gsquid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì¤‡ğ¥-
+Gsquid:S1148"#Use a logger to log this exception.(«ï·şÿÿÿÿÿ8†àˆğ¥-
+Fsquid:S1148Y"#Use a logger to log this exception.(«ï·şÿÿÿÿÿ8Ì¤‡ğ¥-
+Fsquid:S1148w"#Use a logger to log this exception.(«ï·şÿÿÿÿÿ8Ì¤‡ğ¥-
+‹"squid:ClassVariableVisibilityCheck"WMake entityClass a static final constant or non-public and provide accessors if needed.(©Ñ¯/8Ì¤‡ğ¥-
+ksquid:S00112¬"FDefine and throw a dedicated exception instead of using a generic one.(‡İƒ¢úÿÿÿÿ8Ì¤‡ğ¥-
